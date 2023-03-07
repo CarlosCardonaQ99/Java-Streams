@@ -1,2 +1,2 @@
 # Java-Streams
-Login exercises using declarative programming
+Logic exercises using declarative programming
